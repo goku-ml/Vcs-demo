@@ -1,3 +1,3 @@
 # Vcs-demo
 This is my first Git project <br>
-Author - Gokul Ram
+Author - Gokul Ram-CEO
